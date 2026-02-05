@@ -96,3 +96,5 @@ Object tracking integration
 FPS optimization
 
 Model fine-tuning on custom datasets
+
+Outputs are cleared for repository size optimization. Run the notebook to reproduce results.
